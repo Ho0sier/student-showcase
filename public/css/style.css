@@ -28,3 +28,31 @@ img {
   text-decoration: none;
   color: aqua;
 }
+
+
+
+.casey {
+    background-color:0e5040;
+    border-radius: 20px;
+    border: 1px black;
+    padding: 30px;
+    font-style: 'Mojave';
+
+}
+
+.casey img {
+  margin-top: 10px;
+}
+
+.casey h2, a {
+    color: green;
+  }
+
+.casey a {
+  font-size: 1.8em;
+}
+
+.casey a:hover {
+  text decoration: none;
+  color: red;
+}
